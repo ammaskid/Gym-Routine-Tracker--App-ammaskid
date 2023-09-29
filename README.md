@@ -1,6 +1,6 @@
 # Gym Routine Tracker+
-
-_A minimalist gym workout tracker, for iPhone and iPad_
+## License Copyright 2023 Abhinav Krishna
+_A minimalis  gym workout tracker, for iPhone and iPad_
 
 For full details, including free download links from the App Store, visit:
 
@@ -9,6 +9,5 @@ For full details, including free download links from the App Store, visit:
 
 ## License
 
-Copyright 2022, 2023 OpenAlloc LLC
 
 All application code is licensed under the [Mozilla Public License 2](https://www.mozilla.org/en-US/MPL/2.0/), except where noted in individual modules.
