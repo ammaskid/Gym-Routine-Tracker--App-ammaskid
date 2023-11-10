@@ -1,6 +1,6 @@
 ## Gym Routine Tracker+
-## License subject Copyright 2023 Abhinav Krishna
-_A minimalis  gym workout tracker, for iOS_ _( works with iOS 14.3 and above )_
+## License subject Copyright 2023 Abhinav Krishna S B
+_A minimalis  gym workout tracker, for iOS to get in track of user's health details and his/her gains_( works with iOS 14.3 and above )_
 
 For full details, including free download links from the App Store, visit the above link .
 
